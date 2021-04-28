@@ -1,7 +1,7 @@
 There names are 
-1.murali
-2.sharvanan
-3.kavi
-4.naresh
-5.Ajay
-6.srihari
+1.murali(krishna College)
+2.sharvanan(krishna College)
+3.kavi (KCT College)
+4.naresh(KCT College)
+5.Ajay(KCT College)
+6.srihari (RamaKrishna College)
